@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhulfani Faisal Adam</h1>
-<h3 align="center">I'm a passionate learner from Indonesia, interested in **Machine Learning** and **Artificial Intelligence**. Currently, I'm also exploring **Web Development** to expand my skill set.</h3>
+<h3 align="center">I'm a passionate learner from Indonesia, interested in Machine Learning and Artificial Intelligence. Currently, I'm also exploring Web Development to expand my skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhulfani&label=Profile%20views&color=0e75b6&style=flat" alt="zhulfani" /> </p>
 
